@@ -4,7 +4,9 @@
 # Навыки и инструменты.
 
 -python
+
 -pandas
+
 -matplotlib
 
 # Общие выводы
