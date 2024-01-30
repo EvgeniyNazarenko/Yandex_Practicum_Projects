@@ -5,11 +5,17 @@
 # Навыки и инструменты.
 
 -pandas
+
 -seaborn as sns
+
 -matplotlib.pyplot
+
 -numpy
+
 -sklearn.linear_model.LinearRegression 
+
 -sklearn.metrics.r2_score
+
 -sklearn.model_selection.train_test_split
 
 # Общие выводы
