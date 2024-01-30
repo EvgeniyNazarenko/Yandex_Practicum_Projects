@@ -5,12 +5,19 @@
 # Навыки и инструменты.
 
 -numpy 
+
 -pandas
+
 -matplotlib.pyplot as plt
+
 -tensorflow.keras.preprocessing.image.ImageDataGenerator
+
 -tensorflow.keras.applications.resnet.ResNet50
+
 -tensorflow.keras.layers.GlobalAveragePooling2D, Dense
+
 -tensorflow.keras.models.Sequential
+
 -tensorflow.keras.optimizers.Adam
 
 # Общий вывод.
