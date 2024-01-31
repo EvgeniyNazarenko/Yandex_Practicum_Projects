@@ -3,8 +3,11 @@
 
 # Навыки и инструменты
 -pandas 
--numpy 
--matplotlib.pyplot 
+
+-numpy
+
+-matplotlib.pyplot
+
 -scipy.stats
 
 # Общий вывод
